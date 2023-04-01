@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "dataStoreApi",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2023-04-01T10:51:13.150Z"
+}

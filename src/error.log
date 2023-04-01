@@ -1,0 +1,105 @@
+{"level":"error","message":"Failed in Get Post: {}","timestamp":"2023-04-01 04:17:16 PM +0530"}
+{"level":"error","message":"Failed in Get Post: {}","timestamp":"2023-04-01 04:17:38 PM +0530"}
+{"level":"error","message":"Failed in Get Post: {}","timestamp":"2023-04-01 04:17:48 PM +0530"}
+{"level":"error","message":"Failed in Get Post: {\"statusCode\":500,\"errorMessage\":\"Invalid AST Node: [function getPost].\"}","timestamp":"2023-04-01 04:18:33 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 04:18:33 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 04:18:33 PM +0530"}
+{"level":"error","message":"Failed in Get Post: {\"statusCode\":500,\"errorMessage\":\"Invalid AST Node: [function getPost].\"}","timestamp":"2023-04-01 04:19:40 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 04:19:40 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 04:19:40 PM +0530"}
+{"level":"error","message":"Failed in List Post: {\"statusCode\":500,\"errorMessage\":\"No credentials\"}","timestamp":"2023-04-01 04:20:12 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 04:20:12 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 04:20:12 PM +0530"}
+{"level":"error","message":"Failed in List Post: {\"statusCode\":500,\"errorMessage\":\"No credentials\"}","timestamp":"2023-04-01 04:20:41 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 04:20:41 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 04:20:41 PM +0530"}
+{"level":"error","message":"Failed in List Post: {\"statusCode\":500,\"errorMessage\":\"No credentials\"}","timestamp":"2023-04-01 05:12:29 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 05:12:29 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 05:12:29 PM +0530"}
+{"level":"error","message":"Failed in List Post: {\"statusCode\":500}","timestamp":"2023-04-01 05:19:57 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 05:19:57 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 05:19:57 PM +0530"}
+{"level":"error","message":"Failed in Get Post: {\"statusCode\":500,\"errorMessage\":\"Invalid AST Node: [function getPost].\"}","timestamp":"2023-04-01 05:26:24 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 05:26:24 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 05:26:24 PM +0530"}
+{"level":"error","message":"Failed in Get Post: {\"statusCode\":500,\"errorMessage\":\"Invalid AST Node: [function getPost].\"}","timestamp":"2023-04-01 05:29:18 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 05:29:18 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 05:29:18 PM +0530"}
+{"level":"error","message":"Failed in Get Post: {\"statusCode\":500,\"errorMessage\":\"Invalid AST Node: [function getPost].\"}","timestamp":"2023-04-01 05:32:20 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 05:32:20 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 05:32:20 PM +0530"}
+{"level":"error","message":"Failed in Get Post: {\"statusCode\":500}","timestamp":"2023-04-01 05:34:38 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 05:34:38 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 05:34:38 PM +0530"}
+{"level":"error","message":"Failed in Get Post: {\"statusCode\":500}","timestamp":"2023-04-01 05:35:20 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 05:35:20 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 05:35:20 PM +0530"}
+{"level":"error","message":"Failed in Get Post: {\"statusCode\":500}","timestamp":"2023-04-01 05:36:56 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 05:36:56 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 05:36:56 PM +0530"}
+{"level":"error","message":"Failed in Get Post: {\"statusCode\":500}","timestamp":"2023-04-01 05:37:23 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 05:37:23 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 05:37:23 PM +0530"}
+{"level":"error","message":"Failed in Get Post: {\"statusCode\":500}","timestamp":"2023-04-01 05:37:49 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 05:37:49 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 05:37:49 PM +0530"}
+{"level":"error","message":"Failed in Get Post: {\"statusCode\":500}","timestamp":"2023-04-01 05:38:12 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 05:38:12 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 05:38:12 PM +0530"}
+{"level":"error","message":"Failed in Get Post: {\"statusCode\":500}","timestamp":"2023-04-01 05:39:18 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 05:39:18 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 05:39:18 PM +0530"}
+{"level":"error","message":"Failed in Create Post: {\"statusCode\":500}","timestamp":"2023-04-01 05:42:19 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 05:42:19 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 05:42:19 PM +0530"}
+{"level":"error","message":"Failed in Create Post: {\"statusCode\":500}","timestamp":"2023-04-01 05:42:38 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 05:42:38 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 05:42:38 PM +0530"}
+{"level":"error","message":"Failed in Create Post: {\"statusCode\":500}","timestamp":"2023-04-01 05:42:53 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 05:42:53 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 05:42:53 PM +0530"}
+{"level":"error","message":"Failed in Create Post: {\"statusCode\":500}","timestamp":"2023-04-01 05:43:12 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 05:43:12 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 05:43:12 PM +0530"}
+{"level":"error","message":"Failed in Create Post: {\"statusCode\":500}","timestamp":"2023-04-01 06:10:12 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 06:10:12 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 06:10:12 PM +0530"}
+{"level":"error","message":"Failed in Create Post: {\"statusCode\":500}","timestamp":"2023-04-01 06:10:43 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 06:10:43 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 06:10:43 PM +0530"}
+{"level":"error","message":"Failed in Delete Post: {\"statusCode\":500}","timestamp":"2023-04-01 06:20:23 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 06:20:23 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 06:20:23 PM +0530"}
+{"level":"error","message":"Failed in Delete Post: {\"statusCode\":500}","timestamp":"2023-04-01 06:20:55 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 06:20:55 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 06:20:55 PM +0530"}
+{"level":"error","message":"Failed in Get Comment: {\"statusCode\":500}","timestamp":"2023-04-01 06:22:47 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 06:22:47 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 06:22:47 PM +0530"}
+{"level":"error","message":"Failed in Get Comment: {\"statusCode\":500}","timestamp":"2023-04-01 06:23:17 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 06:23:17 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 06:23:17 PM +0530"}
+{"level":"error","message":"Failed in List Comment: {\"statusCode\":500}","timestamp":"2023-04-01 06:23:44 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 06:23:44 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 06:23:44 PM +0530"}
+{"level":"error","message":"Failed in Get Comment: {\"statusCode\":500}","timestamp":"2023-04-01 06:25:35 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 06:25:35 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 06:25:35 PM +0530"}
+{"level":"error","message":"Failed in Get Comment: {\"statusCode\":500}","timestamp":"2023-04-01 06:25:53 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 06:25:53 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 06:25:53 PM +0530"}
+{"level":"error","message":"Failed in Get Comment: {\"statusCode\":500}","timestamp":"2023-04-01 06:26:17 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 06:26:17 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 06:26:17 PM +0530"}
+{"level":"error","message":"Failed in Create Comment: {\"statusCode\":500}","timestamp":"2023-04-01 06:27:51 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 06:27:51 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 06:27:51 PM +0530"}
+{"level":"error","message":"Failed in Get Comment: {\"statusCode\":500}","timestamp":"2023-04-01 06:28:36 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 06:28:36 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 06:28:36 PM +0530"}
+{"level":"error","message":"Failed in Create Comment: {\"statusCode\":500}","timestamp":"2023-04-01 06:29:39 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 06:29:39 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 06:29:39 PM +0530"}
+{"level":"error","message":"Failed in Create Comment: {\"statusCode\":500}","timestamp":"2023-04-01 06:31:43 PM +0530"}
+{"level":"error","message":"Error occurred","timestamp":"2023-04-01 06:31:43 PM +0530"}
+{"level":"error","message":"Server error occurred","timestamp":"2023-04-01 06:31:43 PM +0530"}

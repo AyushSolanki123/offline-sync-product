@@ -1,0 +1,30 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-offlinesyncblog-dev-182355-authRole",
+      "UnauthRoleArn": "arn:aws:iam::107451015969:role/amplify-offlinesyncblog-dev-182355-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::107451015969:role/amplify-offlinesyncblog-dev-182355-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-offlinesyncblog-dev-182355-deployment",
+      "UnauthRoleName": "amplify-offlinesyncblog-dev-182355-unauthRole",
+      "StackName": "amplify-offlinesyncblog-dev-182355",
+      "StackId": "arn:aws:cloudformation:ap-south-1:107451015969:stack/amplify-offlinesyncblog-dev-182355/1931f470-cfc3-11ed-8e51-06acf0e0da54",
+      "AmplifyAppId": "d2swa9byyzdzx3"
+    },
+    "categories": {
+      "function": {
+        "dataStoreLink": {
+          "deploymentBucketName": "amplify-offlinesyncblog-dev-182355-deployment",
+          "s3Key": "amplify-builds/dataStoreLink-7752736e396873704970-build.zip"
+        },
+        "offlinesyncblogmysql2": {
+          "deploymentBucketName": "amplify-offlinesyncblog-dev-182355-deployment",
+          "s3Key": "amplify-builds/offlinesyncblogmysql2-LambdaLayerVersioncda86bd7-build.zip"
+        }
+      },
+      "api": {
+        "dataStoreApi": {}
+      }
+    }
+  }
+}
