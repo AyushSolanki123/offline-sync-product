@@ -24,3 +24,9 @@ amplifytools.xcconfig
 .secret-*
 **.sample
 #amplify-do-not-edit-end
+
+.env
+error.log
+logger.log
+src\logger.log
+src\error.log
