@@ -21,7 +21,10 @@ async function listPosts(req, res, next) {
     try {
         const result = await PostService.listPost();
         res.status(200);
-        res.json(result);
+        res.json({
+            data: result,
+            count: result.length,
+        });
     } catch (error) {
         logger.error("Failed in List Post: " + JSON.stringify(error));
         next(

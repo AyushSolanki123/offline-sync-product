@@ -20,7 +20,7 @@ async function listPost() {
     try {
         const { data } = await API.graphql(graphqlOperation(listPosts));
         logger.log("POSTS: " + JSON.stringify(data));
-        return data;
+        return data.listPosts.items.filter((item) => !item._deleted);
     } catch (error) {
         throw new ErrorBody(500, error.message);
     }
