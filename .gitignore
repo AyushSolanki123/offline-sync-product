@@ -28,5 +28,5 @@ amplifytools.xcconfig
 .env
 error.log
 logger.log
-src\logger.log
-src\error.log
+/src/error.log
+/src/logger.log
