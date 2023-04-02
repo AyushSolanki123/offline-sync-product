@@ -1,7 +1,7 @@
 const express = require("express");
 const cors = require("cors");
 const bodyParser = require("body-parser");
-const { logger } = require("./utils/Logger");
+const { logger } = require("./src/utils/Logger");
 const { Amplify } = require("aws-amplify");
 
 require("dotenv").config();
@@ -16,7 +16,7 @@ Amplify.configure({
 
 // PORT
 const PORT = 3000 || process.env.PORT;
-const routes = require("./routes");
+const routes = require("./src/routes");
 
 const app = express();
 
